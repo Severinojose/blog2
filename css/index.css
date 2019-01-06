@@ -1,0 +1,12 @@
+.barra-superior{
+  min-height: 6rem;
+  
+}
+div[class*="columna"]{
+  min-height: 50rem;
+  border: 1px solid #eceff1;
+}
+div[class*="bloque"]{
+  height: 25rem;
+}
+body { background-size: cover; overflow-x: hidden; background-attachment: fixed; background-repeat: no-repeat; background-position: center center; background-image: url("../img/fondo.jpg"); }
